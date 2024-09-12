@@ -22,3 +22,7 @@ class CounterErrorState extends CounterStates
 
   CounterErrorState(this.Messege);
 }
+
+class djffjkgfshkbsg extends CounterStates
+{
+}
